@@ -1,5 +1,6 @@
 # RadioThermostat-ST
-RadioThermostat device handler for SmartThings
+RadioThermostat device handler for SmartThings.
+
 This code is variation of the code published at https://github.com/statusbits/smartthings/blob/master/README.md
 Please see that README for details on how to install and configure.
 This version incorporates 2 changes:
