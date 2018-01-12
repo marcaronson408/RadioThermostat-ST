@@ -45,7 +45,7 @@ preferences {
 }
 
 metadata {
-    definition (name:"Radio Thermostat", namespace:"statusbits", author:"geko@statusbits.com") {
+    definition (name:"Radio Thermostat", namespace:"marcaronson408", author:"Original by geko@statusbits.com; tweaked by Marc") {
         capability "Thermostat"
         capability "Temperature Measurement"
         capability "Sensor"
